@@ -1,0 +1,3 @@
+# CSharpFileManageDemo
+CSharp文件管理器示例
+winform应用程序，加载到vs即可运行
